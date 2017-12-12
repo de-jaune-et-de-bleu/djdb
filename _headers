@@ -1,0 +1,9 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
+  Content-Security-Policy: script-src https: 'unsafe-inline' https://www.google-analytics.com;
+*/
+  Link: </js/app.js>; rel=preload; as=script
+  Link: </css/styles.css>; rel=preload; as=style

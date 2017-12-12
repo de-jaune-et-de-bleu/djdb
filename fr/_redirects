@@ -1,0 +1,3 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+
+/files/mails/logo-mail.jpg     https://files.de-jaune-et-de-bleu.com/mails/logo-mail.jpg     301

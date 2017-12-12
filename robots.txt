@@ -1,0 +1,21 @@
+Sitemap: https://www.de-jaune-et-de-bleu.com/sitemap.xml
+User-agent: *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
